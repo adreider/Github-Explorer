@@ -1,2 +1,2 @@
 # Github-Explorer
-Projeto desenvolvido na trilha de Reactjs (bootcamp) "ignite" Rocketseat
+Projeto desenvolvido no Chapter 01 na trilha de Reactjs (Bootcamp) Ignite Rocketseat 💜
