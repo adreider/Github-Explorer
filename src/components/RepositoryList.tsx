@@ -18,7 +18,7 @@ export function RepositoryList() {
   useEffect(() => {
     fetch('https://api.github.com/users/adreider/repos')
       .then(response => response.json())
-      .then(data => {setRepositories(data), console.log(data)});
+      .then(data => setRepositories(data));
   }, [])
 
   return (
